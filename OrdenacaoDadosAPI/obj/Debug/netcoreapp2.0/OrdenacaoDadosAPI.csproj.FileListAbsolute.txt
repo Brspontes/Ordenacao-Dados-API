@@ -1,0 +1,16 @@
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\obj\Debug\netcoreapp2.0\OrdenacaoDadosAPI.csprojResolveAssemblyReference.cache
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\obj\Debug\netcoreapp2.0\OrdenacaoDadosAPI.csproj.CoreCompileInputs.cache
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\obj\Debug\netcoreapp2.0\OrdenacaoDadosAPI.AssemblyInfoInputs.cache
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\obj\Debug\netcoreapp2.0\OrdenacaoDadosAPI.AssemblyInfo.cs
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\bin\Debug\netcoreapp2.0\OrdenacaoDadosAPI.deps.json
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\bin\Debug\netcoreapp2.0\OrdenacaoDadosAPI.runtimeconfig.json
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\bin\Debug\netcoreapp2.0\OrdenacaoDadosAPI.runtimeconfig.dev.json
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\bin\Debug\netcoreapp2.0\OrdenacaoDadosAPI.dll
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\bin\Debug\netcoreapp2.0\OrdenacaoDadosAPI.pdb
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\bin\Debug\netcoreapp2.0\OrdenacaoDados.dll
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\bin\Debug\netcoreapp2.0\OrdenacaoDadosContrato.dll
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\bin\Debug\netcoreapp2.0\OrdenacaoDadosContrato.pdb
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\bin\Debug\netcoreapp2.0\OrdenacaoDados.pdb
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\obj\Debug\netcoreapp2.0\OrdenacaoDadosAPI.csproj.CopyComplete
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\obj\Debug\netcoreapp2.0\OrdenacaoDadosAPI.dll
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosAPI\obj\Debug\netcoreapp2.0\OrdenacaoDadosAPI.pdb

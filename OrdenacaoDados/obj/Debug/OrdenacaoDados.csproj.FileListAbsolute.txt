@@ -1,0 +1,9 @@
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDados\bin\Debug\OrdenacaoDados.dll
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDados\bin\Debug\OrdenacaoDados.pdb
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDados\bin\Debug\OrdenacaoDadosContrato.dll
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDados\bin\Debug\OrdenacaoDadosContrato.pdb
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDados\obj\Debug\OrdenacaoDados.csprojResolveAssemblyReference.cache
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDados\obj\Debug\OrdenacaoDados.csproj.CoreCompileInputs.cache
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDados\obj\Debug\OrdenacaoDados.csproj.CopyComplete
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDados\obj\Debug\OrdenacaoDados.dll
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDados\obj\Debug\OrdenacaoDados.pdb

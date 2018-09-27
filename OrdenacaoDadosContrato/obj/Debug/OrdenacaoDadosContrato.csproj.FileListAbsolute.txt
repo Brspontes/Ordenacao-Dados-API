@@ -1,0 +1,6 @@
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosContrato\bin\Debug\OrdenacaoDadosContrato.dll
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosContrato\bin\Debug\OrdenacaoDadosContrato.pdb
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosContrato\obj\Debug\OrdenacaoDadosContrato.csprojResolveAssemblyReference.cache
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosContrato\obj\Debug\OrdenacaoDadosContrato.csproj.CoreCompileInputs.cache
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosContrato\obj\Debug\OrdenacaoDadosContrato.dll
+Z:\DESENVOLVIMENTO\APLICACOES\API\DES\APS-ORDENACAODADOS\OrdenacaoDadosAPI\OrdenacaoDadosContrato\obj\Debug\OrdenacaoDadosContrato.pdb
